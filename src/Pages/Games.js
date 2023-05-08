@@ -45,7 +45,7 @@ export default function Games(){
                         <p>Genshin Impact</p>
                         <p>Arknights</p>
                         <p>Honkai Star Rail</p>
-                        <p>Monster Hunter</p>
+                        <p>Monster Hunter: World</p>
                         <p>Valorant</p>
                         <p>Apex Legends</p>
                         <p>Rainbow Six Siege</p>

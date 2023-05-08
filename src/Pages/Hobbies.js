@@ -45,7 +45,7 @@ export default function Hobbies(){
                         <p>Play Video Games</p>
                         <p>Listen to Music</p>
                         <p>Hang out with my friends</p>
-                        <p>Watch Movies, YouTube, TikTok</p>
+                        <p>Watch KDrama, Anime, Movies, YouTube, TikTok</p>
                         <p>Photography</p>
                         <p>Dancing</p>
                         <p>Arts and Crafts</p>

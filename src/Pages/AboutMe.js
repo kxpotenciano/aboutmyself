@@ -44,6 +44,8 @@ export default function AboutMe(){
                         <p>Address: Antipolo, Rizal | Sampaloc, Manila</p>
                         <p>Email: <a href="#" className="bg-fixed transition duration-300 ease-in-out hover:opacity-50">kxpotenciano@gmail.com</a></p>
                         <p>Facebook: <a href="https://www.facebook.com/kirkpotenciano" className="bg-fixed transition duration-300 ease-in-out hover:opacity-50">https://www.facebook.com/kirkpotenciano</a> <br/></p>
+                        <p>Internet/In-Game Name: khino</p>
+                        <p>Fun Fact: khino is from my name (KI)rk Potencia(NO), just added an H in between</p>
                         
                     </div>
             </div> <br/> <br/>
